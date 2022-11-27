@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-imrahul
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Node JS.
 - 📫 How to reach me yadavrahul97933@gmail.com
 
 <!---
